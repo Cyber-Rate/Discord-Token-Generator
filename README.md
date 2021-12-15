@@ -1,4 +1,4 @@
-# Discord-Bots
+# Discord-Moderasyon-invite-guard Bot
 Herkese Selam Kendi Geliştirmiş Olduğum Web Panelli Discord Botlarını Paylaşacağım.
 
 Altyapıda Doldurmanız Gereken Tek Şey `config.json` Olacaktır Geliştirici İd'leri Tokenler Ve Mongodb Bağlantısı Girmeniz Yeterli Olacaktır.
