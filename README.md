@@ -12,8 +12,8 @@ Siteden Ufak Fotoğraflar Bırakacağım;
 ![image](https://user-images.githubusercontent.com/65469887/146228066-35a39659-684b-46be-bea6-26c9203b54c8.png)
  
  
-Sistemler Bu Şekildi Daha Atamadığım Birçok Özellik Var Siteyi Kuramayanlara Yardım Etmeye Çalışırım Elimden Geldiğince. Altyapıya Eklenmesini İstedikleriniz Varsa Discord Üzerinden Ulaşabilirsiniz.
+Sistemler Bu Şekilde Daha Atamadığım Birçok Özellik Var Siteyi Kuramayanlara Yardım Etmeye Çalışırım Elimden Geldiğince. Altyapıya Eklenmesini İstedikleriniz Varsa Discord Üzerinden Ulaşabilirsiniz.
 
-**ALTYAPI 60 STAR VE 20 FORK OLDUĞU ZAMAN PAYLAŞILACAKTIR NEDENİ İSE ŞUAN PAYLAŞAN KİMSE OLMAMASI**
+**ALTYAPI 60 STAR VE 20 FORK OLDUĞU ZAMAN PAYLAŞACAĞIM NEDENİ İSE ŞUAN PAYLAŞAN KİMSE OLMAMASI**
 
 Not: Görünüm Güzel Olmamış Olabilir Html,Css Bilgim Üst Düzey Değil
