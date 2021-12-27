@@ -19,4 +19,4 @@ Sistemler Bu Şekilde Daha Atamadığım Birçok Özellik Var Siteyi Kuramayanla
 Not: Görünüm Güzel Olmamış Olabilir Html,Css Bilgim Üst Düzey Değil
 
 *Güncelleme;*
-Terfi Sistemi Ve Buton Sistemleri Eklendi.
+Terfi Sistemi Ve Buton Sistemleri Eklendi..
