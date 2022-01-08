@@ -14,9 +14,11 @@ Siteden Ufak Fotoğraflar Bırakacağım;
  
 Sistemler Bu Şekilde Daha Atamadığım Birçok Özellik Var Siteyi Kuramayanlara Yardım Etmeye Çalışırım Elimden Geldiğince. Altyapıya Eklenmesini İstedikleriniz Varsa Discord Üzerinden Ulaşabilirsiniz.
 
-**ALTYAPI 70 STAR VE 30 FORK OLDUĞU ZAMAN PAYLAŞACAĞIM NEDENİ İSE ŞUAN PAYLAŞAN KİMSE OLMAMASI**
+**ALTYAPI 90 STAR VE 30 FORK OLDUĞU ZAMAN PAYLAŞACAĞIM NEDENİ İSE ŞUAN PAYLAŞAN KİMSE OLMAMASI**
 
 Not: Görünüm Güzel Olmamış Olabilir Html,Css Bilgim Üst Düzey Değil
 
 *Güncelleme;*
 Terfi Sistemi Ve Buton Sistemleri Eklendi..
+
+https://github.com/Cyber-Woxy/Discord-Guard-Bot Guard Botumuda Beğenebilirsiniz.
